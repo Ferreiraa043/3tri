@@ -1,0 +1,10 @@
+body{background-color: blue;
+}
+h1{text-align: center;}
+h2 {border-style: double;
+border-color: blueviolet ;
+border-width: 25px;
+}
+main{font-size: 200%;
+    text-align: center; }
+    
